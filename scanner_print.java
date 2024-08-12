@@ -20,7 +20,7 @@ public static void main(String[] args) {
     student aayush =new student();
     System.out.println("enter name  ");
     aayush.name =sc.nextLine();
-        System.out.println("enter  birth yearaayush");
+        System.out.println("enter  birth year ");
 
     aayush.dob = sc.nextInt();
     System.out.println(" previus result  ");
